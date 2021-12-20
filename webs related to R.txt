@@ -1,0 +1,5 @@
+R데이터 다운
+http://econ.korea.ac.kr/~chirokhan/book/data/
+
+R코드(ch06~ch17)
+http://econ.korea.ac.kr/~chirokhan/book/codes/ch06.html
